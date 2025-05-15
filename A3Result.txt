@@ -1,0 +1,248 @@
+----------------------------------------------------
+Core Goal 1
+FAITH        AL061966     9153.340989854898
+UNNAMED      AL031899     7242.060645212937
+JOHN         EP101994     7123.894461655443
+ALBERTO      AL032000     7116.967180267405
+UNNAMED      AL081970     6978.456110117525
+UNNAMED      AL011900     6782.028028463241
+IVAN         AL092004     6647.1216388732255
+GUILLERMO    EP091997     6616.938531664963
+BEULAH       AL021963     6537.255474480159
+KATIA        AL122011     6510.24005978891
+IONE         AL081955     6378.775371284127
+UNNAMED      AL041906     6314.040991592355
+MITCH        AL131998     6247.8884377077775
+CARRIE       AL041957     6214.505997852063
+UNNAMED      AL151970     6139.10463950004
+CLEO         AL051964     6120.057622513696
+PAULETTE     AL172020     6106.69980277035
+FELIX        AL071995     6098.401792113644
+UNNAMED      AL061893     6001.189817415184
+FLORA        AL071963     5965.533791401796
+----------------------------------------------------
+Core Goal 2
+('Mexico City', '1484247881') {'lat': 19.4333, 'lng': -99.1333, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Ciudad de México', 'pop': 21804000}
+('New York', '1840034016') {'lat': 40.6943, 'lng': -73.9249, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 18908608}
+('Los Angeles', '1840020491') {'lat': 34.1141, 'lng': -118.4068, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 11922389}
+('London', '1826645935') {'lat': 51.5072, 'lng': -0.1275, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'London', 'pop': 11262000}
+('Chicago', '1840000494') {'lat': 41.8375, 'lng': -87.6866, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Illinois', 'pop': 8497759}
+('Bogotá', '1170483426') {'lat': 4.7111, 'lng': -74.0722, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Bogotá', 'pop': 7968095}
+('Madrid', '1724616994') {'lat': 40.4169, 'lng': -3.7033, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Madrid', 'pop': 6211000}
+('Miami', '1840015149') {'lat': 25.784, 'lng': -80.2101, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Florida', 'pop': 6080145}
+('Houston', '1840020925') {'lat': 29.786, 'lng': -95.3885, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Texas', 'pop': 5970127}
+('Dallas', '1840019440') {'lat': 32.7935, 'lng': -96.7667, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Texas', 'pop': 5830932}
+('Philadelphia', '1840000673') {'lat': 40.0077, 'lng': -75.1339, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Pennsylvania', 'pop': 5683533}
+('Toronto', '1124279679') {'lat': 43.7417, 'lng': -79.3733, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Ontario', 'pop': 5647656}
+('Guadalajara', '1484950208') {'lat': 20.6767, 'lng': -103.3475, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Jalisco', 'pop': 5525000}
+('Monterrey', '1484559591') {'lat': 25.6667, 'lng': -100.3, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Nuevo León', 'pop': 5341171}
+('Atlanta', '1840013660') {'lat': 33.7628, 'lng': -84.422, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Georgia', 'pop': 5180179}
+('Washington', '1840006060') {'lat': 38.9047, 'lng': -77.0163, 'country': 'United States', 'iso2': 'US', 'admin_name': 'District of Columbia', 'pop': 5116378}
+('Abidjan', '1384207980') {'lat': 5.3167, 'lng': -4.0333, 'country': 'Côte d’Ivoire', 'iso2': 'CI', 'admin_name': 'Abidjan', 'pop': 4980000}
+('Boston', '1840000455') {'lat': 42.3188, 'lng': -71.0852, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Massachusetts', 'pop': 4328315}
+('Bamako', '1466965925') {'lat': 12.6392, 'lng': -8.0028, 'country': 'Mali', 'iso2': 'ML', 'admin_name': 'Bamako', 'pop': 4227569}
+('Phoenix', '1840020568') {'lat': 33.5722, 'lng': -112.0892, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Arizona', 'pop': 4064275}
+('Detroit', '1840003971') {'lat': 42.3834, 'lng': -83.1024, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Michigan', 'pop': 3725908}
+('Montréal', '1124586170') {'lat': 45.5089, 'lng': -73.5617, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Quebec', 'pop': 3675219}
+('Seattle', '1840021117') {'lat': 47.6211, 'lng': -122.3244, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Washington', 'pop': 3561397}
+('Casablanca', '1504175315') {'lat': 33.5333, 'lng': -7.5833, 'country': 'Morocco', 'iso2': 'MA', 'admin_name': 'Casablanca-Settat', 'pop': 3499000}
+('Kumasi', '1288181103') {'lat': 6.7, 'lng': -1.625, 'country': 'Ghana', 'iso2': 'GH', 'admin_name': 'Ashanti', 'pop': 3490030}
+('San Francisco', '1840021543') {'lat': 37.7558, 'lng': -122.4449, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 3364979}
+('Boankra', '1288164978') {'lat': 6.6944, 'lng': -1.4028, 'country': 'Ghana', 'iso2': 'GH', 'admin_name': 'Ashanti', 'pop': 3348000}
+('San Diego', '1840021990') {'lat': 32.8313, 'lng': -117.1222, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 3046560}
+('Guatemala City', '1320197916') {'lat': 14.6133, 'lng': -90.5353, 'country': 'Guatemala', 'iso2': 'GT', 'admin_name': 'Guatemala', 'pop': 3014000}
+('Birmingham', '1826423213') {'lat': 52.48, 'lng': -1.9025, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Birmingham', 'pop': 2919600}
+('Minneapolis', '1840007830') {'lat': 44.9635, 'lng': -93.2678, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Minnesota', 'pop': 2892569}
+('Tampa', '1840015982') {'lat': 27.9945, 'lng': -82.4447, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Florida', 'pop': 2861173}
+('Brooklyn', '1840034030') {'lat': 40.6501, 'lng': -73.9496, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 2736074}
+('Denver', '1840018789') {'lat': 39.762, 'lng': -104.8758, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Colorado', 'pop': 2687458}
+('Medellín', '1170680389') {'lat': 6.2308, 'lng': -75.5906, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Antioquia', 'pop': 2529403}
+('Cali', '1170417589') {'lat': 3.4206, 'lng': -76.5222, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Valle del Cauca', 'pop': 2471474}
+('Ouagadougou', '1854029208') {'lat': 12.3686, 'lng': -1.5275, 'country': 'Burkina Faso', 'iso2': 'BF', 'admin_name': 'Centre', 'pop': 2453496}
+('Vancouver', '1124825478') {'lat': 49.25, 'lng': -123.1, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'British Columbia', 'pop': 2426160}
+('Queens', '1840034002') {'lat': 40.7498, 'lng': -73.7976, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 2405464}
+('Accra', '1288299415') {'lat': 5.55, 'lng': -0.2, 'country': 'Ghana', 'iso2': 'GH', 'admin_name': 'Greater Accra', 'pop': 2388000}
+('Riverside', '1840020551') {'lat': 33.9381, 'lng': -117.3949, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 2332836}
+('Las Vegas', '1840020364') {'lat': 36.2333, 'lng': -115.2654, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Nevada', 'pop': 2248047}
+('Caracas', '1862748204') {'lat': 10.4806, 'lng': -66.9036, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Distrito Capital', 'pop': 2245744}
+('Baltimore', '1840001592') {'lat': 39.3051, 'lng': -76.6144, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Maryland', 'pop': 2196524}
+('St. Louis', '1840001651') {'lat': 38.6359, 'lng': -90.2451, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Missouri', 'pop': 2130881}
+('Portland', '1840019941') {'lat': 45.5371, 'lng': -122.65, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Oregon', 'pop': 2095808}
+('Havana', '1192752771') {'lat': 23.1367, 'lng': -82.3589, 'country': 'Cuba', 'iso2': 'CU', 'admin_name': 'La Habana', 'pop': 2089532}
+('San Antonio', '1840022220') {'lat': 29.4632, 'lng': -98.5238, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Texas', 'pop': 2058444}
+('Tijuana', '1484708778') {'lat': 32.525, 'lng': -117.0333, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Baja California', 'pop': 2002000}
+('Sacramento', '1840021491') {'lat': 38.5677, 'lng': -121.4685, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 1957738}
+('Ecatepec', '1484003694') {'lat': 19.6097, 'lng': -99.06, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 1929926}
+('Austin', '1840019590') {'lat': 30.3005, 'lng': -97.7522, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Texas', 'pop': 1905945}
+('Orlando', '1840015099') {'lat': 28.4773, 'lng': -81.337, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Florida', 'pop': 1882705}
+('San Juan', '1630035577') {'lat': 18.3985, 'lng': -66.061, 'country': 'Puerto Rico', 'iso2': 'PR', 'admin_name': 'Puerto Rico', 'pop': 1814587}
+('San Jose', '1840021570') {'lat': 37.3012, 'lng': -121.848, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 1771413}
+('Pittsburgh', '1840001254') {'lat': 40.4397, 'lng': -79.9763, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Pennsylvania', 'pop': 1749091}
+('Indianapolis', '1840030084') {'lat': 39.7771, 'lng': -86.1458, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Indiana', 'pop': 1729849}
+('Manhattan', '1840034000') {'lat': 40.7834, 'lng': -73.9662, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 1694263}
+('Cincinnati', '1840003814') {'lat': 39.1413, 'lng': -84.506, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Ohio', 'pop': 1692702}
+('Kansas City', '1840008535') {'lat': 39.1238, 'lng': -94.5541, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Missouri', 'pop': 1689556}
+('Tegucigalpa', '1340344059') {'lat': 14.1058, 'lng': -87.2047, 'country': 'Honduras', 'iso2': 'HN', 'admin_name': 'Francisco Morazán', 'pop': 1682725}
+('Cleveland', '1840000596') {'lat': 41.4764, 'lng': -81.6805, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Ohio', 'pop': 1680247}
+('Conakry', '1324568159') {'lat': 9.5092, 'lng': -13.7122, 'country': 'Guinea', 'iso2': 'GN', 'admin_name': 'Conakry', 'pop': 1667864}
+('Balandougou', '1466367944') {'lat': 13.3558, 'lng': -9.5517, 'country': 'Mali', 'iso2': 'ML', 'admin_name': 'Kayes', 'pop': 1596882}
+('Valencia', '1724981666') {'lat': 39.47, 'lng': -0.3764, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Valencia', 'pop': 1595000}
+('León de los Aldama', '1484811199') {'lat': 21.1167, 'lng': -101.6833, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Guanajuato', 'pop': 1579803}
+('Puebla', '1484416394') {'lat': 19.0333, 'lng': -98.1833, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Puebla', 'pop': 1576259}
+('Columbus', '1840003760') {'lat': 39.9862, 'lng': -82.9855, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Ohio', 'pop': 1572546}
+('Yopougon', '1384759584') {'lat': 5.3167, 'lng': -4.0667, 'country': 'Côte d’Ivoire', 'iso2': 'CI', 'admin_name': 'Abidjan', 'pop': 1571065}
+('Maracaibo', '1862072711') {'lat': 10.6333, 'lng': -71.6333, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Zulia', 'pop': 1551539}
+('San José', '1188749877') {'lat': 9.9325, 'lng': -84.08, 'country': 'Costa Rica', 'iso2': 'CR', 'admin_name': 'San José', 'pop': 1543000}
+('Panama City', '1591672475') {'lat': 8.9833, 'lng': -79.5167, 'country': 'Panama', 'iso2': 'PA', 'admin_name': 'Panamá', 'pop': 1500189}
+('Valencia', '1862309871') {'lat': 10.1833, 'lng': -68.0, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Carabobo', 'pop': 1484430}
+('Zapopan', '1484198680') {'lat': 20.7167, 'lng': -103.4, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Jalisco', 'pop': 1476491}
+('Bronx', '1840033999') {'lat': 40.8501, 'lng': -73.8662, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 1472654}
+('Virginia Beach', '1840003871') {'lat': 36.7335, 'lng': -76.0435, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Virginia', 'pop': 1443020}
+('Dakar', '1686604760') {'lat': 14.6928, 'lng': -17.4467, 'country': 'Senegal', 'iso2': 'SN', 'admin_name': 'Dakar', 'pop': 1438725}
+('Charlotte', '1840014557') {'lat': 35.2083, 'lng': -80.8303, 'country': 'United States', 'iso2': 'US', 'admin_name': 'North Carolina', 'pop': 1427444}
+('Santiago', '1214985348') {'lat': 19.4572, 'lng': -70.6889, 'country': 'Dominican Republic', 'iso2': 'DO', 'admin_name': 'Cibao Norte', 'pop': 1343423}
+('Barranquilla', '1170179113') {'lat': 10.9833, 'lng': -74.8019, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Atlántico', 'pop': 1326588}
+('Juárez', '1484840083') {'lat': 31.745, 'lng': -106.485, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Chihuahua', 'pop': 1321004}
+('Calgary', '1124690423') {'lat': 51.05, 'lng': -114.0667, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Alberta', 'pop': 1306784}
+('Milwaukee', '1840003046') {'lat': 43.0642, 'lng': -87.9675, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Wisconsin', 'pop': 1290940}
+('Providence', '1840003289') {'lat': 41.823, 'lng': -71.4187, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Rhode Island', 'pop': 1290271}
+('Jacksonville', '1840015031') {'lat': 30.3322, 'lng': -81.6749, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Florida', 'pop': 1288298}
+('Porto', '1620356810') {'lat': 41.1621, 'lng': -8.622, 'country': 'Portugal', 'iso2': 'PT', 'admin_name': 'Porto', 'pop': 1278210}
+('Dublin', '1372595407') {'lat': 53.35, 'lng': -6.2603, 'country': 'Ireland', 'iso2': 'IE', 'admin_name': 'Dublin', 'pop': 1263219}
+('Comayagüela', '1340762485') {'lat': 14.098, 'lng': -87.21, 'country': 'Honduras', 'iso2': 'HN', 'admin_name': 'Francisco Morazán', 'pop': 1250000}
+('Nashville', '1840036155') {'lat': 36.1715, 'lng': -86.7842, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Tennessee', 'pop': 1177657}
+('Salt Lake City', '1840021383') {'lat': 40.7776, 'lng': -111.9311, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Utah', 'pop': 1173879}
+('Pikine', '1686165071') {'lat': 14.75, 'lng': -17.4, 'country': 'Senegal', 'iso2': 'SN', 'admin_name': 'Dakar', 'pop': 1170791}
+('Raleigh', '1840014497') {'lat': 35.8324, 'lng': -78.6429, 'country': 'United States', 'iso2': 'US', 'admin_name': 'North Carolina', 'pop': 1163152}
+('Edmonton', '1124290735') {'lat': 53.5344, 'lng': -113.4903, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Alberta', 'pop': 1151635}
+('Santo Domingo', '1214636202') {'lat': 18.4667, 'lng': -69.95, 'country': 'Dominican Republic', 'iso2': 'DO', 'admin_name': 'Ozama', 'pop': 1128678}
+('Fès', '1504861997') {'lat': 34.0433, 'lng': -5.0033, 'country': 'Morocco', 'iso2': 'MA', 'admin_name': 'Fès-Meknès', 'pop': 1112072}
+('Mexicali', '1484788702') {'lat': 32.6633, 'lng': -115.4678, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Baja California', 'pop': 1102342}
+('Sevilla', '1724991838') {'lat': 37.39, 'lng': -5.99, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Andalusia', 'pop': 1100000}
+('Tamale', '1288890688') {'lat': 9.4075, 'lng': -0.8533, 'country': 'Ghana', 'iso2': 'GH', 'admin_name': 'Northern', 'pop': 1095808}
+('Nezahualcóyotl', '1484074285') {'lat': 19.4081, 'lng': -99.0186, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 1077208}
+('Nouakchott', '1478414984') {'lat': 18.0858, 'lng': -15.9785, 'country': 'Mauritania', 'iso2': 'MR', 'admin_name': 'Nouakchott Ouest', 'pop': 1077169}
+('Richmond', '1840001698') {'lat': 37.5295, 'lng': -77.4756, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Virginia', 'pop': 1073223}
+('Ciudad Nezahualcóyotl', '1484016661') {'lat': 19.4006, 'lng': -99.0148, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 1072676}
+('Ottawa', '1124399363') {'lat': 45.4247, 'lng': -75.695, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Ontario', 'pop': 1068821}
+('Barquisimeto', '1862860739') {'lat': 10.0636, 'lng': -69.3347, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Lara', 'pop': 1059092}
+('Managua', '1558296252') {'lat': 12.1364, 'lng': -86.2514, 'country': 'Nicaragua', 'iso2': 'NI', 'admin_name': 'Managua', 'pop': 1051236}
+('Memphis', '1840015457') {'lat': 35.1087, 'lng': -89.9663, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Tennessee', 'pop': 1037998}
+('Monrovia', '1430477826') {'lat': 6.3133, 'lng': -10.8014, 'country': 'Liberia', 'iso2': 'LR', 'admin_name': 'Montserrado', 'pop': 1021762}
+('San Cristóbal', '1862252264') {'lat': 7.7667, 'lng': -72.2333, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Táchira', 'pop': 1015623}
+('Morelia', '1484669072') {'lat': 19.7683, 'lng': -101.1894, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Michoacán', 'pop': 1011704}
+('Domaa-Ahenkro', '1288459533') {'lat': 7.2833, 'lng': -2.8833, 'country': 'Ghana', 'iso2': 'GH', 'admin_name': 'Bono', 'pop': 1000000}
+('Oklahoma City', '1840020428') {'lat': 35.4676, 'lng': -97.5136, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Oklahoma', 'pop': 998806}
+('Bordeaux', '1250449238') {'lat': 44.84, 'lng': -0.58, 'country': 'France', 'iso2': 'FR', 'admin_name': 'Nouvelle-Aquitaine', 'pop': 994920}
+('Port-au-Prince', '1332401940') {'lat': 18.5333, 'lng': -72.3333, 'country': 'Haiti', 'iso2': 'HT', 'admin_name': 'Ouest', 'pop': 987310}
+('Hartford', '1840004773') {'lat': 41.7661, 'lng': -72.6834, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Connecticut', 'pop': 974684}
+('Málaga', '1724397372') {'lat': 36.7194, 'lng': -4.42, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Andalusia', 'pop': 967250}
+('Marrakech', '1504172585') {'lat': 31.63, 'lng': -8.0089, 'country': 'Morocco', 'iso2': 'MA', 'admin_name': 'Marrakech-Safi', 'pop': 966987}
+('Louisville', '1840030815') {'lat': 38.1663, 'lng': -85.6485, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Kentucky', 'pop': 963812}
+('Freetown', '1694085071') {'lat': 8.4844, 'lng': -13.2344, 'country': 'Sierra Leone', 'iso2': 'SL', 'admin_name': 'Western Area', 'pop': 951000}
+('Santo Domingo Este', '1214664832') {'lat': 18.4855, 'lng': -69.8734, 'country': 'Dominican Republic', 'iso2': 'DO', 'admin_name': 'Ozama', 'pop': 948855}
+('Tangier', '1504861504') {'lat': 35.7767, 'lng': -5.8039, 'country': 'Morocco', 'iso2': 'MA', 'admin_name': 'Tanger-Tétouan-Al Hoceïma', 'pop': 947952}
+('Buffalo', '1840000386') {'lat': 42.9018, 'lng': -78.8487, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 944589}
+('Aguascalientes', '1484666646') {'lat': 21.876, 'lng': -102.296, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Aguascalientes', 'pop': 934424}
+('New Orleans', '1840001839') {'lat': 30.0687, 'lng': -89.9288, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Louisiana', 'pop': 932759}
+('Fort Worth', '1840020696') {'lat': 32.7817, 'lng': -97.3474, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Texas', 'pop': 924663}
+('Cartagena', '1170886102') {'lat': 10.4, 'lng': -75.5, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Bolívar', 'pop': 914552}
+('Naucalpan de Juárez', '1484850125') {'lat': 19.4753, 'lng': -99.2378, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 910407}
+('Bridgeport', '1840004836') {'lat': 41.1918, 'lng': -73.1954, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Connecticut', 'pop': 908251}
+('Bobo-Dioulasso', '1854348796') {'lat': 11.1833, 'lng': -4.2833, 'country': 'Burkina Faso', 'iso2': 'BF', 'admin_name': 'Hauts-Bassins', 'pop': 903887}
+('Bucaramanga', '1170940590') {'lat': 7.1333, 'lng': -73.0, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Santander', 'pop': 893040}
+('Mérida', '1484396779') {'lat': 20.97, 'lng': -89.62, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Yucatán', 'pop': 892363}
+('Cancún', '1484010310') {'lat': 21.1606, 'lng': -86.8475, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Quintana Roo', 'pop': 888797}
+('Tucson', '1840022101') {'lat': 32.1541, 'lng': -110.8787, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Arizona', 'pop': 878320}
+('Chihuahua', '1484335603') {'lat': 28.6369, 'lng': -106.0769, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Chihuahua', 'pop': 878062}
+('Barinas', '1862647790') {'lat': 8.6333, 'lng': -70.2, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Barinas', 'pop': 873962}
+('El Paso', '1840023252') {'lat': 31.8476, 'lng': -106.43, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Texas', 'pop': 865270}
+('Saltillo', '1484107245') {'lat': 25.4231, 'lng': -100.9919, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Coahuila', 'pop': 864431}
+('El Dorado', '1484719986') {'lat': 24.808, 'lng': -107.397, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Sinaloa', 'pop': 858638}
+('Portsmouth', '1826964096') {'lat': 50.8058, 'lng': -1.0872, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Portsmouth', 'pop': 855679}
+('Southampton', '1826602892') {'lat': 50.9025, 'lng': -1.4042, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Southampton', 'pop': 855569}
+('Hermosillo', '1484015319') {'lat': 29.0989, 'lng': -110.9542, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Sonora', 'pop': 855563}
+('Sale', '1504989034') {'lat': 34.0333, 'lng': -6.8, 'country': 'Morocco', 'iso2': 'MA', 'admin_name': 'Rabat-Salé-Kénitra', 'pop': 850403}
+('Omaha', '1840009315') {'lat': 41.2627, 'lng': -96.0529, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Nebraska', 'pop': 821345}
+('Culiacán', '1484516810') {'lat': 24.8069, 'lng': -107.3939, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Sinaloa', 'pop': 808416}
+('Cúcuta', '1170743755') {'lat': 7.8942, 'lng': -72.5039, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Norte de Santander', 'pop': 806378}
+('Querétaro', '1484604775') {'lat': 20.5875, 'lng': -100.3928, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Querétaro', 'pop': 801940}
+('Palermo', '1170614290') {'lat': 2.8917, 'lng': -75.4375, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Huila', 'pop': 800000}
+('McAllen', '1840021024') {'lat': 26.2252, 'lng': -98.2467, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Texas', 'pop': 797341}
+('San Pedro Sula', '1340568412') {'lat': 15.5, 'lng': -88.0333, 'country': 'Honduras', 'iso2': 'HN', 'admin_name': 'Cortés', 'pop': 793835}
+('Hempstead', '1840005293') {'lat': 40.6629, 'lng': -73.6089, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 789763}
+('Leeds', '1826343963') {'lat': 53.7975, 'lng': -1.5436, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Leeds', 'pop': 789194}
+('Birmingham', '1840006507') {'lat': 33.5279, 'lng': -86.7971, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Alabama', 'pop': 782111}
+('Bilbao', '1724331267') {'lat': 43.2569, 'lng': -2.9236, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Basque Country', 'pop': 775000}
+('San Luis Potosí', '1484583620') {'lat': 22.1511, 'lng': -100.9761, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'San Luis Potosí', 'pop': 772828}
+('Albuquerque', '1840019176') {'lat': 35.1054, 'lng': -106.6465, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New Mexico', 'pop': 769986}
+('Winnipeg', '1124224963') {'lat': 49.8844, 'lng': -97.1464, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Manitoba', 'pop': 758515}
+('Ciudad Guayana', '1862889027') {'lat': 8.3667, 'lng': -62.65, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Bolívar', 'pop': 751331}
+('Quebec City', '1124823933') {'lat': 46.8139, 'lng': -71.2081, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Quebec', 'pop': 733156}
+('Tulsa', '1840021672') {'lat': 36.1283, 'lng': -95.9042, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Oklahoma', 'pop': 731743}
+('Nottingham', '1826122597') {'lat': 52.9561, 'lng': -1.1512, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Nottingham', 'pop': 729977}
+('Hamilton', '1124567288') {'lat': 43.2567, 'lng': -79.8692, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Ontario', 'pop': 729560}
+('Fresno', '1840020319') {'lat': 36.783, 'lng': -119.7939, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 725276}
+('Mississauga', '1124112672') {'lat': 43.6, 'lng': -79.65, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Ontario', 'pop': 717961}
+('Bristol', '1826921049') {'lat': 51.4536, 'lng': -2.5975, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Bristol', 'pop': 707412}
+('Charleston', '1840015163') {'lat': 32.8168, 'lng': -79.9687, 'country': 'United States', 'iso2': 'US', 'admin_name': 'South Carolina', 'pop': 706884}
+('Rochester', '1840000373') {'lat': 43.168, 'lng': -77.6162, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 699921}
+('Cocody', '1384351512') {'lat': 5.35, 'lng': -3.9667, 'country': 'Côte d’Ivoire', 'iso2': 'CI', 'admin_name': 'Abidjan', 'pop': 692583}
+('Guadalupe', '1484002410') {'lat': 25.6775, 'lng': -100.2597, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Nuevo León', 'pop': 691931}
+('Zaragoza', '1724907391') {'lat': 41.65, 'lng': -0.8833, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Aragon', 'pop': 682513}
+('Soledad', '1170765625') {'lat': 10.9167, 'lng': -74.75, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Atlántico', 'pop': 676014}
+('Acapulco de Juárez', '1484463183') {'lat': 16.8636, 'lng': -99.8825, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Guerrero', 'pop': 673478}
+('Murcia', '1724107739') {'lat': 37.9861, 'lng': -1.1303, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Murcia', 'pop': 672773}
+('Dayton', '1840034249') {'lat': 39.7805, 'lng': -84.2003, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Ohio', 'pop': 668825}
+('Tlaquepaque', '1484087945') {'lat': 20.6167, 'lng': -103.3167, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Jalisco', 'pop': 664193}
+('Villavicencio', '1170426927') {'lat': 4.15, 'lng': -73.6333, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Meta', 'pop': 664148}
+('Catia La Mar', '1862657837') {'lat': 10.6, 'lng': -67.0333, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'La Guaira', 'pop': 661897}
+('Bouaké', '1384983838') {'lat': 7.6833, 'lng': -5.0167, 'country': 'Côte d’Ivoire', 'iso2': 'CI', 'admin_name': 'Vallée du Bandama', 'pop': 659233}
+('Brampton', '1124625989') {'lat': 43.6833, 'lng': -79.7667, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Ontario', 'pop': 656480}
+('Durango', '1484854616') {'lat': 24.025, 'lng': -104.6675, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Durango', 'pop': 654876}
+('Cape Coral', '1840015130') {'lat': 26.6443, 'lng': -81.9957, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Florida', 'pop': 654405}
+('Tlalnepantla', '1484861603') {'lat': 19.5367, 'lng': -99.1947, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 653410}
+('Mission Viejo', '1840020580') {'lat': 33.6096, 'lng': -117.6551, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 642211}
+('Colorado Springs', '1840018825') {'lat': 38.8674, 'lng': -104.7605, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Colorado', 'pop': 638194}
+('Baton Rouge', '1840013941') {'lat': 30.442, 'lng': -91.1311, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Louisiana', 'pop': 635671}
+('Las Palmas', '1724501748') {'lat': 28.1258, 'lng': -15.4353, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Canary Islands', 'pop': 635000}
+('Allentown', '1840001044') {'lat': 40.5961, 'lng': -75.4756, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Pennsylvania', 'pop': 627863}
+('Glasgow', '1826836462') {'lat': 55.8611, 'lng': -4.25, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Glasgow City', 'pop': 626410}
+('Ogden', '1840020135') {'lat': 41.2279, 'lng': -111.9682, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Utah', 'pop': 622918}
+('Provo', '1840020174') {'lat': 40.2457, 'lng': -111.6457, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Utah', 'pop': 619218}
+('Port-Bouët', '1384512844') {'lat': 5.2667, 'lng': -3.9, 'country': 'Côte d’Ivoire', 'iso2': 'CI', 'admin_name': 'Abidjan', 'pop': 618795}
+('Knoxville', '1840014486') {'lat': 35.9692, 'lng': -83.9496, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Tennessee', 'pop': 615829}
+('Chimalhuacán', '1484504936') {'lat': 19.4167, 'lng': -98.9, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 614453}
+('Grand Rapids', '1840002928') {'lat': 42.9619, 'lng': -85.6562, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Michigan', 'pop': 609023}
+('Columbia', '1840014730') {'lat': 34.0378, 'lng': -80.9036, 'country': 'United States', 'iso2': 'US', 'admin_name': 'South Carolina', 'pop': 604065}
+('Irapuato', '1484625454') {'lat': 20.6667, 'lng': -101.35, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Guanajuato', 'pop': 592953}
+('Albany', '1840000417') {'lat': 42.6664, 'lng': -73.7987, 'country': 'United States', 'iso2': 'US', 'admin_name': 'New York', 'pop': 590694}
+('Pereira', '1170386718') {'lat': 4.8143, 'lng': -75.6946, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Risaralda', 'pop': 590554}
+('Reynosa', '1484737671') {'lat': 26.0922, 'lng': -98.2778, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Tamaulipas', 'pop': 589466}
+('Kingston', '1388709177') {'lat': 17.9714, 'lng': -76.7931, 'country': 'Jamaica', 'iso2': 'JM', 'admin_name': 'Kingston', 'pop': 580000}
+('Tuxtla', '1484832519') {'lat': 16.7528, 'lng': -93.1167, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Chiapas', 'pop': 578830}
+('Rabat', '1504023252') {'lat': 34.0209, 'lng': -6.8416, 'country': 'Morocco', 'iso2': 'MA', 'admin_name': 'Rabat-Salé-Kénitra', 'pop': 572717}
+('Bakersfield', '1840019148') {'lat': 35.3529, 'lng': -119.0359, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 571992}
+('Tonalá', '1484750897') {'lat': 20.6167, 'lng': -103.2333, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Jalisco', 'pop': 569913}
+('Surrey', '1124001454') {'lat': 49.19, 'lng': -122.8489, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'British Columbia', 'pop': 568322}
+('Ciudad Bolívar', '1862318264') {'lat': 8.1219, 'lng': -63.55, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Bolívar', 'pop': 567953}
+('New Haven', '1840004850') {'lat': 41.3113, 'lng': -72.9246, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Connecticut', 'pop': 565572}
+('Bello', '1170423489') {'lat': 6.3333, 'lng': -75.5667, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Antioquia', 'pop': 561955}
+('Cuautitlán Izcalli', '1484282338') {'lat': 19.65, 'lng': -99.25, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 555163}
+('Des Moines', '1840007069') {'lat': 41.5725, 'lng': -93.6105, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Iowa', 'pop': 548926}
+('Lisbon', '1620619017') {'lat': 38.7253, 'lng': -9.15, 'country': 'Portugal', 'iso2': 'PT', 'admin_name': 'Lisboa', 'pop': 548703}
+('Manchester', '1826246335') {'lat': 53.479, 'lng': -2.2452, 'country': 'United Kingdom', 'iso2': 'GB', 'admin_name': 'Manchester', 'pop': 547627}
+('Valledupar', '1170481949') {'lat': 10.4833, 'lng': -73.25, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Cesar', 'pop': 544134}
+('Ixtapaluca', '1484452937') {'lat': 19.3186, 'lng': -98.8822, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'México', 'pop': 542211}
+('Heroica Matamoros', '1484614906') {'lat': 25.8797, 'lng': -97.5042, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Tamaulipas', 'pop': 541979}
+('Akron', '1840000791') {'lat': 41.0798, 'lng': -81.5219, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Ohio', 'pop': 541945}
+('Ibagué', '1170245063') {'lat': 4.4333, 'lng': -75.2333, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Tolima', 'pop': 541101}
+('Santa Cruz', '1724813158') {'lat': 28.4667, 'lng': -16.25, 'country': 'Spain', 'iso2': 'ES', 'admin_name': 'Canary Islands', 'pop': 538000}
+('Palm Bay', '1840015094') {'lat': 27.9631, 'lng': -80.6593, 'country': 'United States', 'iso2': 'US', 'admin_name': 'Florida', 'pop': 534348}
+('Concord', '1840018905') {'lat': 37.9722, 'lng': -122.0016, 'country': 'United States', 'iso2': 'US', 'admin_name': 'California', 'pop': 531175}
+('Touba', '1686956738') {'lat': 14.8667, 'lng': -15.8833, 'country': 'Senegal', 'iso2': 'SN', 'admin_name': 'Diourbel', 'pop': 529176}
+('Santa Teresa del Tuy', '1862528581') {'lat': 10.2333, 'lng': -66.6639, 'country': 'Venezuela', 'iso2': 'VE', 'admin_name': 'Miranda', 'pop': 525321}
+('Ciudad Apodaca', '1484855080') {'lat': 25.7817, 'lng': -100.1886, 'country': 'Mexico', 'iso2': 'MX', 'admin_name': 'Nuevo León', 'pop': 523370}
+('Montería', '1170855299') {'lat': 8.75, 'lng': -75.8833, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Córdoba', 'pop': 523150}
+('Kitchener', '1124158530') {'lat': 43.4186, 'lng': -80.4728, 'country': 'Canada', 'iso2': 'CA', 'admin_name': 'Ontario', 'pop': 522888}
+('Soacha', '1170512000') {'lat': 4.5872, 'lng': -74.2214, 'country': 'Colombia', 'iso2': 'CO', 'admin_name': 'Cundinamarca', 'pop': 522442}
